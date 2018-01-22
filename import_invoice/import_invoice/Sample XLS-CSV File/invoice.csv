@@ -1,0 +1,7 @@
+INVOICE ID,PARTNER,CURRENCY,PRODUCT,QUANTITY,UOM,DESCRIPTION,PRICE,SALESPERSON,TAX,DATE
+invoice1,Agrolait,EUR,Basic Computer,1,Unit(s),Basic Computer,10000,Administrator,(standard)Input Excise Duty @ 12.36%;(standard)Input VAT @ 8%,2017-02-03
+invoice1,Agrolait,EUR,Little Server,2,Unit(s),Little Server,50000,Administrator,(standard)Input Excise Duty @ 12.36%;(standard)Input VAT @ 8%,2017-02-04
+invoice2,Agrolait,INR,Server,3,Unit(s),Server,100000,Demo User,(standard)Input VAT @ 4%,2017-02-06
+invoice3,Axeloer,EUR,Basic Computer,1,Unit(s),Basic Computer,10000,Administrator,,2017-02-07
+invoice4,Camptocamp,INR,Little Server,2,Unit(s),Little Server,50000,Demo User,(standard)Input VAT @ 4%,2017-02-08
+
